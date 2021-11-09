@@ -1,0 +1,6 @@
+$ python3 entropy -h
+   $ pip install tailer
+$ git clone https://github.com/evildevill/entropy
+$ cd entropy
+$ chmod +x install.sh
+$ ./install.sh
